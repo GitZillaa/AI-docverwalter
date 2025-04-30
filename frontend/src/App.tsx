@@ -15,6 +15,7 @@ import HomePage from './pages/app/HomePage';
 
 function App() {
   return (
+    
     <Router>
       <Navbar />
       <div className="pt-20">
