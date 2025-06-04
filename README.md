@@ -48,7 +48,7 @@ Alternativ: Supabase (falls gehostet & leicht verwaltbar sein soll)
 #   Microservice	        Aufgabe	                                        Sprache
 
     Gateway/API 	        Zentrale Schnittstelle,                         Auth, Routing	Node.js
-    PDF-Service	            Parsing,Umbenennung, Text extrahieren	        Python
+    PDF-Service	            Parsing, Umbenennung, Text extrahieren	        Python
     KI-Service	            Anbindung an LLM, Prompts, Klassifikation	    Python
     Datenbank-Service	    Verwaltung der Metadaten, Suche	                Node.js
     LLM-Service	            Lokaler LLM, Anfrageverarbeitung	            Python
